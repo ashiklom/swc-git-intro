@@ -1,0 +1,15 @@
+# Password file
+secret
+
+# Compiled Fortran and C code
+*.o
+*.so
+
+
+# JAVA class files
+*.class
+
+
+# Python compiled code and cache
+*.pyc
+__pycache__
